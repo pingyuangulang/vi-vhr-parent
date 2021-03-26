@@ -28,6 +28,12 @@
         </dependency>
 
         <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <scope>test</scope>
+        </dependency>
+
+        <dependency>
             <groupId>com.five.monkey</groupId>
             <artifactId>vi-vhr-service</artifactId>
             <version>${project.version}</version>

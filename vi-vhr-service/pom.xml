@@ -47,7 +47,7 @@
 
         <dependency>
             <groupId>com.five.monkey</groupId>
-            <artifactId>vi-vhr-common</artifactId>
+            <artifactId>vi-vhr-facade</artifactId>
             <version>${project.version}</version>
         </dependency>
 
